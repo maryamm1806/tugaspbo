@@ -78,9 +78,6 @@ public class UserInterface {
             if (status == true) {
               System.out.println("DATA BERHASIL DIPERBAHARUI");
 
-            } else {
-              System.err.println("GAGAL MEMPERBAHARUI DATA");
-
             }
             System.out.println("---------------------------------------------");
 
